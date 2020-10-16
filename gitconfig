@@ -48,4 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = tatisabato@hotmail.com
-	name = tabatha wiggers
+	name = Tabatha Wiggers
+[credential]
+	helper = store
